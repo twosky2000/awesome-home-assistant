@@ -17,9 +17,6 @@ Home Assistant is an open source home automation that puts local control and
 privacy first. Powered by a worldwide community of tinkerers and DIY
 enthusiasts. Perfect to run on a Raspberry Pi or a local server.
 
-If you want to get an impression on the look and feel,
-you should check out the [Home Assistant online demo](https://demo.home-assistant.io).
-
 Awesome Home Assistant is a curated list of awesome
 [Home Assistant](https://www.home-assistant.io) resources.
 Additional software, tutorials, custom components, Hassio add-ons,
@@ -168,7 +165,7 @@ _Anyone could create an add-on, the following are created by the community._
 * [motionEye](https://github.com/hassio-addons/addon-motioneye) - Simple, elegant and feature-rich CCTV/NVR for your cameras.
 * [JupyterLab Lite](https://github.com/hassio-addons/addon-jupyterlab-lite) - Create documents containing live code, equations, visualizations, and explanatory text.
 * [Backup to Google Drive](https://github.com/samccauley/addon-hassiogooglebackup) - Backup snapshots to Google Drive.
-
+* [Home Panel](https://github.com/hassio-addons/addon-home-panel) - A touch-compatible web frontend for controlling the home.
 ## User Interface
 
 _The Home Assistant frontend is already pretty, but you can customize it to
@@ -246,7 +243,6 @@ _Additional components for Home Assistant, that were created by the community._
 * [Volkswagen Carnet](https://github.com/robinostlund/homeassistant-volkswagencarnet) - Integrates Volkswagen Carnet (requires valid Carnet subscription).
 * [Untappd](https://github.com/custom-components/sensor.untapped) - Connects with your Untappd account.
 * [Elasticsearch](https://github.com/legrego/homeassistant-elasticsearch) - Publishes events to Elasticsearch.
-* [Sonoff/eWeLink](https://github.com/peterbuga/HASS-sonoff-ewelink) - Control Sonoff/eWeLink smart devices using the stock firmware.
 
 ## DIY
 
